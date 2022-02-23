@@ -1,5 +1,5 @@
 # Pondr Monitoring Portal
-#### Author: Abhi Balijepalli, Ibrahim Saeed
+#### Authors: Abhi Balijepalli, Ibrahim Saeed
 
 ## Copyright: 
 This software and it's content is a copyright of © Pondr. Any redistributions or reproduction of part of all of the contents in any form is prohibited other than the following: 
